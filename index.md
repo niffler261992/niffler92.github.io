@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and 
 ```
 
-![Image](https://www.evernote.com/l/AZU8VTSOnh1OH6T_PEfwkpMPPLvuTJDMDEQB/image.png)
+<img src="https://www.evernote.com/l/AZU8VTSOnh1OH6T_PEfwkpMPPLvuTJDMDEQB/image.png" width="600" height="200" />
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
