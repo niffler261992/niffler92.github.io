@@ -23,8 +23,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://www.evernote.com/l/AZU8VTSOnh1OH6T_PEfwkpMPPLvuTJDMDEQB/image.png)
+[Link](url) and 
 ```
+
+![Image](https://www.evernote.com/l/AZU8VTSOnh1OH6T_PEfwkpMPPLvuTJDMDEQB/image.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
